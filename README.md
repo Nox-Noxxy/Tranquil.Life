@@ -1,6 +1,4 @@
 # Tranquil.Life
-Informative app about yoga and meditation.
-#Tranquil Life
 
 ##Helping to bring yoga and meditaion to your daily life
 
@@ -8,7 +6,7 @@ Tranquil Life is a website that provides information about yoga and meditation. 
 
 Users are given a step by step basic beginner guide on how to meditate. it also offers a sign up for a newsleter on group events and health tips.The site is to easy access and read thru.
 
-##Feature
+##Features
 
 ###Navigation
 
@@ -86,3 +84,31 @@ Meditation-picture
 Images
 
 -All attacted images are from Pixels url(https://www.pexels.com/)
+ 
+ ##Table of Content
+
+ -Requirements
+ -Installation
+ -Configuration
+ -Maintainers
+ -License
+
+ ##Requirements
+
+
+ ##Installation
+
+
+ ##Configuration
+
+  
+ ##Maintainers
+
+Zoliswa N Shandu []
+
+ ##License
+ 
+ GNU GPLv3 
+
+
+
