@@ -1,14 +1,14 @@
 # Tranquil.Life
 
-##Helping to bring yoga and meditaion to your daily life
+## Helping to bring yoga and meditaion to your daily life
 
 Tranquil Life is a website that provides information about yoga and meditation. It helps you keep up with your physical health wheather you have 5 mintues or enough time to focus on a specific goal. The site is beginner friendly , it offers information about 6 different types of yoga and their orgin or belief and advantages. It also offeres external links that refer to video and audion that could help users access to a link to a more specific search.
 
 Users are given a step by step basic beginner guide on how to meditate. it also offers a sign up for a newsleter on group events and health tips.The site is to easy access and read thru.
 
-##Features
+## Features
 
-###Navigation
+### Navigation
 
 navigation bar
 
@@ -20,7 +20,7 @@ The site also offers a navigation bar for the Yoga section to help navigate you 
 
 yoga-nav-picture
 
-Header
+## Header
 
 header-main-nav-picture
 
@@ -28,7 +28,7 @@ The header contains the site name, the slogan and a navigation bar that helps yo
 This section is supposed to imply what wethe site does which the slogan targets and the the title is a supportsing factor.
 home-picture
 
-Landing Image
+## Landing Image
 
 The landing image gives an visual atmosphere to the site.
 The image is of 3 indivisuals strecting outdoors.
@@ -47,7 +47,7 @@ a nav bar for types of yoga
 All Types of yoga boxes have attached an external link to a general search of the specfic yoga type selected video content.
 Yoga-picture
 
-Meditation
+## Meditation
 
 Featured in this section is a basic step-by-step process into going into a meditative state.
 This gives user enough information to start the process.
@@ -90,25 +90,31 @@ Images
  -Requirements
  -Installation
  -Configuration
+ -Future Updates
  -Maintainers
  -License
 
- ##Requirements
+ ## Requirements
 
 
- ##Installation
+ ## Installation
 
 
- ##Configuration
+ ## Configuration
 
-  
- ##Maintainers
 
-Zoliswa N Shandu []
+ ## Future Updates
 
- ##License
+- Add more information about all types of yoga.
+- Update the layout of website.
+- Add background audio to the website.
+- Create a weekly yoga plan for beginners ,intermediate and advanced.
+
+
+ ## Maintainers
+
+Zoliswa N Shandu [https://github.com/Nox-Noxxy]
+
+ ## License
  
  GNU GPLv3 
-
-
-
